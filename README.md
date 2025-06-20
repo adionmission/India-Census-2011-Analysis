@@ -1,5 +1,9 @@
 # India Census Analysis
 
+![GitHub License](https://img.shields.io/github/license/adionmission/India-Census-2011-Analysis)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/India-Census-2011-Analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/India-Census-2011-Analysis)
+
 ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Census Intro](Images/Census-of-India.jpg)

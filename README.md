@@ -15,7 +15,7 @@ But SQL seems to be well suited to get data insights which helps to make decisio
 ## Download
 
 ```bash
-  git clone https://github.com/Onnamission/India-Census-Analysis.git
+  git clone https://github.com/adionmission/India-Census-2011-Analysis.git
 ```
 
 ## About Dataset
